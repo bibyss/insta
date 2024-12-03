@@ -16,4 +16,4 @@
 
 ### Deploy ###
 
-Link do projeto: [Insta](https://insta-fudido.vercel.app/)
+Link do projeto: [Insta](https://insta-bibys.vercel.app/)
